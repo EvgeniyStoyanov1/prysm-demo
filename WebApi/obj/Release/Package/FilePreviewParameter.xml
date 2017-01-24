@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="prysm-demo" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Evgeniy\\Projects\\Prysm\\WebApi\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\Evgeniy\\Projects\\Prysm\\WebApi\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>
